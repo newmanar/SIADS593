@@ -21,6 +21,6 @@ Contents:
   -  Predictive_Analysis_Notebook.ipynb - Predictive modeling using Linear Regression and Vector Autoregression
 
 Notes for use:
-- COVID-19 raw data can be obtained through the COVID Act Now [website](https://covidactnow.org). Instructions for obtaining an API key are provided [here](https://apidocs.covidactnow.org/#register).
+- COVID-19 raw data can be obtained through the COVID Act Now [website](https://covidactnow.org). Instructions for obtaining an API key are provided [here](https://apidocs.covidactnow.org/#register). The user will need to uncomment cells in the Setup Notebook to process data via the API.
 - The notebooks in the source directory assume that all referenced data are in the same path/directory.
 - Any file in the data directory that is zipped must be unzipped for use.
