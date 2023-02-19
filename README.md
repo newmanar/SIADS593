@@ -9,7 +9,7 @@ Contents:
 - 08-apacker-newmanar.pdf - Final project report
 - data/ (Note: All data should be placed in the same directory/path as the source notebooks in order to function correctly)
   - BTS Air Travel Data 2020-2022.zip - Contains 3 CSVs files with air travel data for 2020, 2021, and 2022 (Jan-Nov)
-  - COVID_Travel_US_Profile.html - Profile of compiled data at the end of processing the Setup Notebook
+  - COVID_Travel_US_Profile.html - Profile (via [ydata-profiling](https://ydata-profiling.ydata.ai/docs/master/index.html)) of compiled data at the end of processing the Setup Notebook
   - Compiled_data.pkl - Data compiled in Setup Notebook, used in both the Analysis and Predictive Analysis Notebook
   - code_lookup.csv - Contains mappings of city markets to BTS and Census Bureau five-digit codes
   - df_cbsa_covid_data.pkl.zip - Zipped pickle file of COVID-19 data down to the CBSA level (should be unzipped for use)
