@@ -6,6 +6,7 @@
 
 Contents:
 - README.md - This file
+- README.txt - Text version containing the same info as this file
 - 08-apacker-newmanar.pdf - Final project report
 - data/ (Note: All data should be placed in the same directory/path as the source notebooks in order to function correctly)
   - BTS Air Travel Data 2020-2022.zip - Contains 3 CSVs files with air travel data for 2020, 2021, and 2022 (Jan-Nov)
